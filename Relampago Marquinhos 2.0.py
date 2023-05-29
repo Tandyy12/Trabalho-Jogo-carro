@@ -37,8 +37,8 @@ linha_tam = 50
 via_esquerda = 150
 via_central = 250
 via_direita = 350
-final_rua = 900
-começo_rua = 0
+#final_rua = 300
+#começo_rua = 900
 vias = [via_esquerda, via_central, via_direita]
 
 estrada = (100, 0, pista, altura)
